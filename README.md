@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FizzYxWizzY
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning html5/css3.
-- 📫 smoke signals from the highest mountain nearby 🤣
+- 👀 I’m interested in C.
+- 🌱 I’m currently learning C, @42lausanne.
+- 📫 mflury@student.42lausanne.com or by smoke signals from the highest mountain nearby 🤣
 
 <!---
 FizzYxWizzY/FizzYxWizzY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
