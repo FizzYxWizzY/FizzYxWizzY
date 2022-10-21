@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FizzY_WizzY
+- 👋 Hi, I’m @FizzYxWizzY
 - 👀 I’m interested in C.
 - 🌱 I’m currently learning C, @42lausanne.
 - 📫 mflury@student.42lausanne.com or by smoke signals from the highest mountain nearby 🤣
