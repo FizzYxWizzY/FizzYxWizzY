@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @FizzYxWizzY
-- 👀 I’m interested in C.
+- 👋 Hi, I’m @FizzYxWizzY.
 - 🌱 I’m currently learning C, @42lausanne.
-- 📫 mflury@student.42lausanne.com or by smoke signals from the highest mountain nearby 🤣
+- 📫 mflury@student.42lausanne.com or _fizzy_wizzy_ on Discord.
 
 <!---
 FizzYxWizzY/FizzYxWizzY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
