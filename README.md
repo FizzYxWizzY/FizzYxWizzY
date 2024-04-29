@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FizzYxWizzY.
-- 🌱 I’m currently learning C, @42lausanne.
+- 🌱 I’m currently learning C & C++, @42lausanne.
 - 📫 mflury@student.42lausanne.com or @\_fizzy_wizzy\_ on Discord.
 
 <!---
